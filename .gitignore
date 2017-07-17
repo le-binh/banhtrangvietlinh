@@ -1,0 +1,25 @@
+# Environment variables
+.env
+
+# Compiled python files
+*.pyc
+
+# sqlite database
+*.sqlite3
+*.sql
+
+# For pyCharm dev
+.project
+.idea
+
+# Coverage stuff
+.coverage
+
+# Vagrant
+.vagrant/
+
+staticfiles/
+.python-version
+
+.DS_Store
+
